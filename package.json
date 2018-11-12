@@ -1,0 +1,24 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backkit/config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backkit/config/issues"
+  },
+  "homepage": "https://github.com/backkit/config#readme",
+  "dependencies": {
+    "camelcase": "^5.0.0",
+    "inquirer": "^6.2.0",
+    "js-yaml": "^3.12.0"
+  }
+}

@@ -28,7 +28,7 @@ const generate = (serviceName, moduleName, config) => {
 
 if (!skipAutoconf) {
   const packageJson = require('./package.json');
-  const serviceName = packageJson.name;
+  const serviceName = 'config';
   const moduleName = packageJson.name;
   generate(serviceName, moduleName, {});
 }

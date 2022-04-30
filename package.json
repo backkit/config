@@ -21,6 +21,7 @@
   "homepage": "https://github.com/backkit/config#readme",
   "dependencies": {
     "camelcase": "^5.0.0",
+    "dotenv": "^16.0.0",
     "inquirer": "^6.2.0",
     "js-yaml": "^3.14.1"
   },
